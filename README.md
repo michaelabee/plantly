@@ -10,10 +10,15 @@ then navigate to https://localhost3000/
 
 # Tech
 Mongo/mongoose
+
 express
+
 React
+
 node 
+
 passport.js 
+
 Sass
 
 
